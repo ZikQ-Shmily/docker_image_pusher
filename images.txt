@@ -1,2 +1,3 @@
 chevereto/chevereto
 rustdesk/rustdesk-server
+neosmemo/memos
