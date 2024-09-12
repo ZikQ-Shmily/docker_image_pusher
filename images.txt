@@ -1,3 +1,4 @@
 chevereto/chevereto
 rustdesk/rustdesk-server
 neosmemo/memos
+redis:7-alpine
